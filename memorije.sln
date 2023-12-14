@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memorije", "memorije\memorije.csproj", "{B3C423A6-174F-457A-8BA7-E43D95734DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C423A6-174F-457A-8BA7-E43D95734DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C423A6-174F-457A-8BA7-E43D95734DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C423A6-174F-457A-8BA7-E43D95734DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C423A6-174F-457A-8BA7-E43D95734DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F215D73-EF57-400C-8EA9-880259B46E63}
+	EndGlobalSection
+EndGlobal
